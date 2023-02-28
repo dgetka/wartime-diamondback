@@ -6,8 +6,8 @@ editor: Dana Getka
 permalink: /article2/
 ---
 
-During one of the coldest n:
-war games in the hills behind
+During one of the coldest nights this year, the ROTC held
+war games in the hills behind the dairy buildings Wednesday
 night from 7 ’til 11.
 Selected sections carried out the
 lessons learned in military classes
