@@ -1,8 +1,9 @@
 ---
 layout: narrative
-title: ARTICLE TITLE
-author: ARTICLE AUTHOR
-editor: YOUR NAME
+title: ROTC Men Carry Through
+Attack in War Maneuvers
+author: The Diamondback
+editor: Dana Getka
 permalink: /article2/
 ---
 
